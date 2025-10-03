@@ -4,18 +4,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Contact
 
-Gmail: tom.kinddev@gmail.com
+Gmail: benjamin.bigdev@gmail.com
 
-discord:  @erikerik116
+Telegram: [@SOLBenjaminCup](https://t.me/SOLBenjaminCup)
 
-telegram: @erikerik116
-
-twitter: @erikerikerik116
+Discord: [@.benjamincup](https://discord.com/channels/@me/1305610537790476382)
 
 
 ## Getting Started
 
-Clone this repository : git clone https://github.com/eriksol116/solana-token-launchpad
+Clone this repository : git clone https://github.com/Benjamin-cup/solana-token-launchpad.git
 
 First, run the development server:
 
